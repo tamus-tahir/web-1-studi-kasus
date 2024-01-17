@@ -1,0 +1,40 @@
+body {
+    font-family: 'Alkatra', system-ui;
+}
+
+.font-title {
+    font-family: 'Courgette', cursive;
+    font-size: 60px;
+    color: #0d6efd;
+}
+
+.carousel img {
+    height: 93vh;
+}
+
+.navbar {
+    height: 80px;
+}
+
+.kontak i {
+    font-size: 50px;
+}
+
+.kontak iframe {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.footer {
+    height: 80px;
+    line-height: 80px;
+}
+
+.mitra img {
+    width: 100%;
+    height: 200px;
+}
+
+.berita img {
+    height: 300px;
+}
