@@ -12,10 +12,6 @@ body {
     height: 93vh;
 }
 
-.navbar {
-    height: 80px;
-}
-
 .kontak i {
     font-size: 50px;
 }
@@ -36,5 +32,9 @@ body {
 }
 
 .berita img {
+    height: 300px;
+}
+
+.galeri-foto img {
     height: 300px;
 }
